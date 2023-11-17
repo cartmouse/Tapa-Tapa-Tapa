@@ -1,3 +1,4 @@
-# Tapa-Tapa-Tapa
+# Multi-tap Delay
 
-A multi-tap delay plugin written in JUCE.
+A JUCE based multi-tap delay plugin built as part of the Audio Programming
+module of the Tonmeister Degree.
